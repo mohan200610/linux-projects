@@ -1,0 +1,10 @@
+
+
+using echo print the log
+using echo print the log >> it kepts old with new data
+monitering the logs (tail -f filename)
+by using nano we can write multiple lines of data
+grep used to check the wrd in the file 
+head and tail both are uesd to checks logs and cmd with intiger it gives upto there
+by using chmod we can change  file type
+
